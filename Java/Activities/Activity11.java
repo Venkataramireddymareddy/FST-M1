@@ -1,4 +1,4 @@
-package org.example.activities;
+package Package_Activities;
 
 import java.util.HashMap;
 
@@ -27,6 +27,6 @@ public class Activity11 {
         }
 
         // Print the size of the Map
-        System.out.println("Number of pairs in the Map is: " + hash_map.size());
+        System.out.println("Number of key pairs in the Map is: " + hash_map.size());
     }
 }
